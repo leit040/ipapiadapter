@@ -8,7 +8,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Leit040\\GeoIpApi\\": "./src"
+      "Leit040\\Geo\\": "./src"
     }
   },
   "require": {

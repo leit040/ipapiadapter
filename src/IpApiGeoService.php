@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Leit040\GeoIpApi;
+namespace Leit040\Geo;
 
 
-use  Leit040\GeoInterface\GeoIpInterface;
+use  Leit040\Geo\GeoIpInterface;
 use Illuminate\Support\Facades\Http;
 
 
