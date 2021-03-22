@@ -1,0 +1,29 @@
+{
+  "name": "leit040/ipapiadapter",
+  "type": "package",
+  "description": "IpApi GeoIp adapter.",
+  "keywords": [
+    "GeoIp",
+    "IpApi"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Leit040\\Geo\\": "./src"
+    }
+  },
+  "require": {
+    "php": "^7.3|^8.0",
+    "guzzlehttp/guzzle": "^7.0.1",
+    "leit040/geointerface":"^1.0.1"
+  },
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/leit040/geointerface"
+        }
+
+  ]
+}
+
+
+
+
