@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Leit040\Geo;
+namespace Leit040\GeoIpApi;
 
 
 use  Leit040\GeoInterface\GeoIpInterface;
